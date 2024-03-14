@@ -1,6 +1,6 @@
-# SleepyDB: A Database for Sleepy People
+# GNSMQL: A Database for Sleepy People
 
-Welcome to SleepyDB, the most straightforward database management system designed for developers who want to focus on their dreams as much as their data. SleepyDB simplifies the complexities of data storage into a restful slumber of coding ease. Whether you're half-awake coding at 2 AM or just prefer a minimalist approach to database management, SleepyDB is here to help.
+Welcome to GNSMQL, the most straightforward database management system designed for developers who want to focus on their dreams as much as their data. GNSMQL simplifies the complexities of data storage into a restful slumber of coding ease. Whether you're half-awake coding at 2 AM or just prefer a minimalist approach to database management, GNSMQL is here to help.
 
 ## Features
 
