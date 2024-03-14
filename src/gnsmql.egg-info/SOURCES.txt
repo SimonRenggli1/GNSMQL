@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/gnsmql.egg-info/PKG-INFO
+src/gnsmql.egg-info/SOURCES.txt
+src/gnsmql.egg-info/dependency_links.txt
+src/gnsmql.egg-info/top_level.txt
