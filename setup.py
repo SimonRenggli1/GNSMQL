@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'gnsmql',
   packages = ['gnsmql'],
-  version = '0.1',
+  version = '0.2',
   license='MIT',
   description = 'Database for sleepy people.',
   author = 'Simon Renggli',
