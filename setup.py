@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
   name = 'gnsmql',
   packages = ['gnsmql'],
-  version = '0.1.4',
+  version = '0.2.0',
   license='MIT',
   description = 'Database for sleepy people.',
   long_description=open('README.md').read(),

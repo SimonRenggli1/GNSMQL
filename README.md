@@ -19,13 +19,13 @@ Welcome to GNSMQL, the most straightforward database management system designed 
 ## Quick Start
 Create a Database Instance
 ```
-from GNSMQLParser import GNSMQLParser
+import gnsmql
 
 # Initialize with default path
-gnsmql = GNSMQLParser()
+gnsmql = gnsmql.gnsmqlConnector()
 
 # Or specify a custom path for your database
-# gnsmql = GNSMQLParser('/path/to/your/custom/db')
+# gnsmql = gnsmql.gnsmqlConnector('/path/to/your/custom/db')
 ```
 
 Create a Database
