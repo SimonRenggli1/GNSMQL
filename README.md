@@ -1,6 +1,5 @@
 <div align="center">
-<img src="![gnsmql](https://github.com/SimonRenggli1/GNSMQL/assets/96227533/c735f725-8e07-49d2-99ac-38a0a278d622)
-" width=355 height=218>
+<img src="https://github.com/SimonRenggli1/GNSMQL/assets/96227533/c735f725-8e07-49d2-99ac-38a0a278d622" width=355 height=218>
 <br/>
 <h1>gnsmql: A Database for Sleepy People</h1>
 <br/>
